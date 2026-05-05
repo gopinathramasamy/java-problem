@@ -16,7 +16,7 @@
 
 import java.util.*;
 class Main{
-public class SortArrayByParity {
+public static int[] sortArrayByParity(int[] nums) {
   int[] arr=new int[nums.length];
         int ind = 0;
         for(int i=0;i<nums.length;i++){
@@ -30,5 +30,5 @@ public class SortArrayByParity {
             }
         }
         return arr;
-   }
+   } 
 }
