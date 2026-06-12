@@ -14,7 +14,7 @@
 // Input: nums = [0]
 // Output: [0]
 
-import java.util.*;
+
 class Main{
 public static int[] sortArrayByParity(int[] nums) {
   int[] arr=new int[nums.length];
