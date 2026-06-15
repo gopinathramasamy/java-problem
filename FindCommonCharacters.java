@@ -19,6 +19,8 @@
 // 1 <= words[i].length <= 100
 // words[i] consists of lowercase English letters.
 
+
+import java.util.*;
 public class FindCommonCharacters {
   public List<String> commonChars(String[] words) {
         int[] minfreq = new int[26];
