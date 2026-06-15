@@ -25,7 +25,7 @@
 
 // 1000 <= num <= 9999
 
-
+import java.util.*;
 class Solution {
     public int minimumSum(int num) {
         char[] arr=String.valueOf(num).toCharArray();
