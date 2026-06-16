@@ -31,7 +31,6 @@
 // sentences[i] does not have leading or trailing spaces.
 // All the words in sentences[i] are separated by a single space.
 
-
 public class MaximumWord {
   public int mostWordsFound(String[] sentences) {
        int max=0;
