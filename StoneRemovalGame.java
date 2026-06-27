@@ -29,7 +29,6 @@
 
 // Alice cannot remove 10 stones, so Alice loses.
  
-
 // Constraints:
 
 // 1 <= n <= 50
