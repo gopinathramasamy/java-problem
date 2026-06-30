@@ -29,7 +29,6 @@
 // Output: 3
 // Explanation: Each of the patterns appears as a substring in word "ab".
  
-
 // Constraints:
 
 // 1 <= patterns.length <= 100
